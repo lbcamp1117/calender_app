@@ -1,4 +1,4 @@
-# calender_app
+# daily_planner_app
 This is a daily planner app that allows the user to log activities by hour. User input will be stored locally for ease of and repeated use
 
 
